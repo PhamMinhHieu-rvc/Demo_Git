@@ -7,7 +7,7 @@ from sklearn import tree
 # Bước đánh giá model
 
 my_tree = tree.DecisionTreeClassifier()
-# demo git pull
+# Edit code to test git
 
 dactrung = [[1, 3, 3, 7],
             [5, 2, 4, 6],
